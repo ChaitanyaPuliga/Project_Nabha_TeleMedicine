@@ -1,71 +1,73 @@
-Welcome to our Project Myra
-Project info
+# Myra – Telemedicine Platform
 
-URL: (Insert your project URL here)
+## 🚀 Project Overview
 
-How can I edit this code?
+**Myra** is a telemedicine platform designed to simplify interactions between patients and doctors, especially in areas where transportation and accessibility were major hurdles.  
+Our mission is to reduce complexity and provide easy access to healthcare services for everyone.
 
-There are several ways of editing your application.
+### 💡 Key Features
+- **Call Center Integration** for easy voice interaction, especially helpful for elderly users.  
+- **Doctor Consultation via Video Calls** using scheduled meetings.  
+- Provides **employment opportunities** by offering basic technical training.  
+- **AI Integration** for smoother interaction and smart assistance.  
+- Dynamic **language switching** to accommodate different users (Punjabi, Hindi, English).  
+- Mostly **offline content** to reduce dependency on continuous internet access.  
+- Simple **navigation and user-friendly UX design** for seamless usage.
 
-Use your preferred IDE
+---
 
-You can work locally using your own IDE by cloning this repo and pushing changes.
+## 🎯 Purpose
 
-The only requirement is having Node.js & npm installed - install with nvm
+This project is specifically designed to solve healthcare accessibility challenges in **Nabha village, Punjab**, where patients often face difficulties visiting doctors due to transportation issues.  
+Our goal is to enable seamless interaction between doctors and patients without the need for travel, reducing healthcare inequality in rural areas.
 
-Follow these steps:
+👉 In the future, **Myra is scalable to cover many other rural and underserved areas across India**, helping millions get timely medical attention and creating employment opportunities.
 
-# Step 1: Clone the repository using the project's Git URL.
+---
+
+## ⚙️ How to Install and Run Locally
+
+You can download the project code from this repository and run it locally to explore or customize as needed.
+
+### Prerequisites
+- Install [Node.js and npm](https://github.com/nvm-sh/nvm#installing-and-updating)  
+  (Using [nvm](https://github.com/nvm-sh/nvm) is recommended for version management).
+
+### ✅ Steps to Set Up the Project
+
+```bash
+# Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Step 2: Navigate to the project directory
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 3: Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server
 npm run dev
 
+---
+```
 
-Edit a file directly in GitHub
+### 🚀 How to Deploy
 
-Navigate to the desired file(s).
+You can deploy this project using your preferred hosting platform (e.g., Vercel, Netlify)
+Or follow custom deployment processes depending on your server environment.
 
-Click the "Edit" button (pencil icon) at the top right of the file view.
-
-Make your changes and commit the changes.
-
-Use GitHub Codespaces
-
-Navigate to the main page of your repository.
-
-Click on the "Code" button (green button) near the top right.
-
-Select the "Codespaces" tab.
-
-Click on "New codespace" to launch a new Codespace environment.
-
-Edit files directly within the Codespace and commit and push your changes once you're done.
-
-What technologies are used for this project?
+### 🌐 Technology Stack
 
 This project is built with:
 
-Vite
+- Vite
+- TypeScript
+- React
+- shadcn-ui
 
-TypeScript
+- Tailwind CSS
 
-React
+### 🌍 Contribution
 
-shadcn-ui
-
-Tailwind CSS
-
-How can I deploy this project?
-
-Follow your preferred deployment process, such as using Vercel, Netlify, or another hosting provider.
-
-Can I connect a custom domain?
-
-Yes, you can connect a custom domain by configuring your hosting platform’s domain settings.
+Anyone can contribute by cloning the repo, making necessary modifications, and pushing changes.
+Feel free to raise issues or pull requests.
