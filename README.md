@@ -37,10 +37,10 @@ You can download the project code from this repository and run it locally to exp
 
 ```bash
 # Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/ChaitanyaPuliga/Project_Nabha_TeleMedicine
 
 # Step 2: Navigate to the project directory
-cd <YOUR_PROJECT_NAME>
+cd <YOUR_PROJECT_NAME> (The name you mentioned for your folder. Here it is Project_Nabha_TeleMedicine)
 
 # Step 3: Install dependencies
 npm install
