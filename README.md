@@ -1,11 +1,11 @@
 # Myra – Telemedicine Platform
 
-## 🚀 Project Overview
+##  Project Overview
 
 **Myra** is a telemedicine platform designed to simplify interactions between patients and doctors, especially in areas where transportation and accessibility were major hurdles.  
 Our mission is to reduce complexity and provide easy access to healthcare services for everyone.
 
-### 💡 Key Features
+###  Key Features
 - **Call Center Integration** for easy voice interaction, especially helpful for elderly users.  
 - **Doctor Consultation via Video Calls** using scheduled meetings.  
 - Provides **employment opportunities** by offering basic technical training.  
@@ -16,16 +16,16 @@ Our mission is to reduce complexity and provide easy access to healthcare servic
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This project is specifically designed to solve healthcare accessibility challenges in **Nabha village, Punjab**, where patients often face difficulties visiting doctors due to transportation issues.  
 Our goal is to enable seamless interaction between doctors and patients without the need for travel, reducing healthcare inequality in rural areas.
 
-👉 In the future, **Myra is scalable to cover many other rural and underserved areas across India**, helping millions get timely medical attention and creating employment opportunities.
+ In the future, **Myra is scalable to cover many other rural and underserved areas across India**, helping millions get timely medical attention and creating employment opportunities.
 
 ---
 
-## ⚙️ How to Install and Run Locally
+##  How to Install and Run Locally
 
 You can download the project code from this repository and run it locally to explore or customize as needed.
 
@@ -33,7 +33,7 @@ You can download the project code from this repository and run it locally to exp
 - Install [Node.js and npm](https://github.com/nvm-sh/nvm#installing-and-updating)  
   (Using [nvm](https://github.com/nvm-sh/nvm) is recommended for version management).
 
-### ✅ Steps to Set Up the Project
+###  Steps to Set Up the Project
 
 ```bash
 # Step 1: Clone the repository
@@ -51,12 +51,12 @@ npm run dev
 ---
 ```
 
-### 🚀 How to Deploy
+###  How to Deploy
 
 You can deploy this project using your preferred hosting platform (e.g., Vercel, Netlify)
 Or follow custom deployment processes depending on your server environment.
 
-### 🌐 Technology Stack
+###  Technology Stack
 
 This project is built with:
 
@@ -67,7 +67,7 @@ This project is built with:
 
 - Tailwind CSS
 
-### 🌍 Contribution
+###  Contribution
 
 Anyone can contribute by cloning the repo, making necessary modifications, and pushing changes.
 Feel free to raise issues or pull requests.
